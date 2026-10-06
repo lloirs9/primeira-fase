@@ -5,7 +5,8 @@ programa {
     cadeia
     inteiro
     //infos e variaveis
-
+escreva("alguma coisa")
+leia(coisa)
      //entrada de dados
 
      //processamentos
